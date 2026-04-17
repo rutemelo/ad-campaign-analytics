@@ -5,12 +5,12 @@ A data analytics portfolio project analysing the performance of 2,446 digital ad
 ---
 
 ## Tools Used
-- **MySQL** — data analysis & querying
-- **Power BI** — dashboard & visualisation *(in progress)*
-- **Excel** — initial data exploration
+- **MySQL** - data analysis & querying
+- **Power BI** - dashboard & visualisation *(in progress)*
+- **Excel** - initial data exploration
 
 ## Dataset
-**Marketing Campaign Performance Dataset** — sourced from [Kaggle](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
+**Marketing Campaign Performance Dataset** - sourced from [Kaggle](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
 
 - 20,000 rows, 16 columns
 - Covers campaigns from 2021 across 5 US cities
@@ -72,31 +72,31 @@ ROI remained relatively stable throughout 2021 (ranging from 4.98 to 5.18), with
 
 ## SQL Queries & Results
 
-### Query 1 — Overall Campaign Performance
+### Query 1 - Overall Campaign Performance
 ![Query 1 Overview](images/query1_overview.png)
 
-### Query 2 — Channel Performance
+### Query 2 - Channel Performance
 ![Query 2 Channel Performance](images/query2_channel_performance.png)
 
-### Query 3 — Campaign Type Performance
+### Query 3 - Campaign Type Performance
 ![Query 3 Campaign Type](images/query3_campaign_performance.png)
 
-### Query 4 — Audience Segmentation
+### Query 4 - Audience Segmentation
 ![Query 4 Audience Segmentation](images/query4_audience_segmentation.png)
 
-### Query 5 — Customer Segment Performance
+### Query 5 - Customer Segment Performance
 ![Query 5 Customer Segment](images/query5_customer_segment.png)
 
-### Query 6 — Location Performance
+### Query 6 - Location Performance
 ![Query 6 Location](images/query6_location_performance.png)
 
-### Query 7 — Cost Efficiency
+### Query 7 - Cost Efficiency
 ![Query 7 Cost Efficiency](images/query7_cost_efficiency.png)
 
-### Query 8 — Campaign Duration Impact
+### Query 8 - Campaign Duration Impact
 ![Query 8 Duration](images/query8_duration_impact.png)
 
-### Query 9 — Company Leaderboard
+### Query 9 - Company Leaderboard
 Top 5
 
 ![Query 9 Top Companies](images/query9_company_leaderboard_top.png)
@@ -105,13 +105,13 @@ Bottom 5
 
 ![Query 9 Bottom Companies](images/query9_company_leaderboard_bottom.png)
 
-### Query 10 — Monthly Trend
+### Query 10 - Monthly Trend
 ![Query 10 Monthly Trend](images/query10_monthly_trend.png)
 
-### Query 11 — Best Channel per Campaign Type
+### Query 11 - Best Channel per Campaign Type
 ![Query 11 Best Channel](images/query11_best_channel_per_type.png)
 
-### Query 12 — High Value Campaigns
+### Query 12 - High Value Campaigns
 ![Query 12 High Value](images/query12_high_value_campaigns.png)
 
 ---

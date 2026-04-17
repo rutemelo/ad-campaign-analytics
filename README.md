@@ -5,9 +5,10 @@ A data analytics portfolio project analysing the performance of 2,446 digital ad
 ---
 
 ## Tools Used
+- **Excel** - initial data exploration
 - **MySQL** - data analysis & querying
 - **Power BI** - dashboard & visualisation *(in progress)*
-- **Excel** - initial data exploration
+
 
 ## Dataset
 **Marketing Campaign Performance Dataset** - sourced from [Kaggle](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)

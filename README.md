@@ -73,16 +73,16 @@ ROI remained relatively stable throughout 2021 (ranging from 4.98 to 5.18), with
 ## SQL Queries & Results
 
 ### Query 1 — Overall Campaign Performance
-![Query 1 Overview](insights/query1_overview.png)
+![Query 1 Overview](images/query1_overview.png)
 
 ### Query 2 — Channel Performance
-![Query 2 Channel Performance](insights/query2_channel_performance.png)
+![Query 2 Channel Performance](images/query2_channel_performance.png)
 
 ### Query 3 — Campaign Type Performance
-![Query 3 Campaign Type](insights/query3_campaign_performance.png)
+![Query 3 Campaign Type](images/query3_campaign_performance.png)
 
 ### Query 4 — Audience Segmentation
-![Query 4 Audience Segmentation](insights/query4_audience_segmentation.png)
+![Query 4 Audience Segmentation](images/query4_audience_segmentation.png)
 
 ### Query 5 — Customer Segment Performance
 ![Query 5 Customer Segment](insights/query5_customer_segment.png)

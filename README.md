@@ -32,7 +32,7 @@ A data analytics portfolio project analysing the performance of 2,446 digital ad
 | Overall CTR | 9.91% |
 | Average Engagement Score | 5.45 |
 
-### 📢 Channel Performance
+### Channel Performance
 Facebook is the top performing channel with an average ROI of **5.16**, followed closely by Google Ads at **5.15**. Website has the lowest average ROI at **4.97**.
 
 | Channel | Avg ROI | Avg Conversion Rate | CTR |
@@ -44,28 +44,28 @@ Facebook is the top performing channel with an average ROI of **5.16**, followed
 | Email | 4.99 | 8.04% | 9.72% |
 | Website | 4.97 | 7.95% | 9.68% |
 
-### 🎯 Campaign Type Performance
+### Campaign Type Performance
 Social Media campaigns lead on ROI (**5.18**), while Email campaigns have the highest conversion rate (**8.23%**).
 
-### 👥 Audience Segmentation
+### Audience Segmentation
 Women 35-44 have the highest conversion rate at **8.22%**, while Men 18-24 follow closely at **8.09%**. Women 25-34 have the lowest at **8.00%**.
 
-### 🛍️ Customer Segments
+### Customer Segments
 Foodies have the highest conversion rate (**8.36%**) while Outdoor Adventurers lead on ROI (**5.11**).
 
-### 📍 Location Performance
+### Location Performance
 New York and Los Angeles tie for the highest ROI (**5.08**), while Chicago leads on conversion rate (**8.25%**).
 
-### ⏱️ Campaign Duration
+### Campaign Duration
 Longer campaigns (60 days) yield the highest ROI (**5.08**) but shorter campaigns (30 days) have the highest conversion rate (**8.21%**), suggesting a trade-off between brand awareness and direct response.
 
-### 🏆 Company Leaderboard
+### Company Leaderboard
 Alpha Innovations leads with an average ROI of **5.18**, while DataTech Solutions has the lowest at **4.86**.
 
-### 💰 Cost Efficiency
+### Cost Efficiency
 The most cost-efficient campaign (Campaign #2139, Alpha Innovations — Email on Facebook) achieved an ROI of **7.95** with an acquisition cost of only **$5,091**, yielding **1.56 ROI per $1,000 spent**.
 
-### 📅 Monthly Trend
+### Monthly Trend
 ROI remained relatively stable throughout 2021 (ranging from 4.98 to 5.18), with a notable peak in **May 2021** at **5.18**. Conversion rates fluctuated more, peaking in **March** at **8.37%**.
 
 ---

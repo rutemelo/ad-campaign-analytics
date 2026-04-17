@@ -85,29 +85,31 @@ ROI remained relatively stable throughout 2021 (ranging from 4.98 to 5.18), with
 ![Query 4 Audience Segmentation](images/query4_audience_segmentation.png)
 
 ### Query 5 — Customer Segment Performance
-![Query 5 Customer Segment](insights/query5_customer_segment.png)
+![Query 5 Customer Segment](images/query5_customer_segment.png)
 
 ### Query 6 — Location Performance
-![Query 6 Location](insights/query6_location_performance.png)
+![Query 6 Location](images/query6_location_performance.png)
 
 ### Query 7 — Cost Efficiency
-![Query 7 Cost Efficiency](insights/query7_cost_efficiency.png)
+![Query 7 Cost Efficiency](images/query7_cost_efficiency.png)
 
 ### Query 8 — Campaign Duration Impact
-![Query 8 Duration](insights/query8_duration_impact.png)
+![Query 8 Duration](images/query8_duration_impact.png)
 
 ### Query 9 — Company Leaderboard
-![Query 9 Top Companies](insights/query9_company_leaderboard_top.png)
-![Query 9 Bottom Companies](insights/query9_company_leaderboard_bottom.png)
+Top 5
+![Query 9 Top Companies](images/query9_company_leaderboard_top.png)
+Bottom 5
+![Query 9 Bottom Companies](images/query9_company_leaderboard_bottom.png)
 
 ### Query 10 — Monthly Trend
-![Query 10 Monthly Trend](insights/query10_monthly_trend.png)
+![Query 10 Monthly Trend](images/query10_monthly_trend.png)
 
 ### Query 11 — Best Channel per Campaign Type
-![Query 11 Best Channel](insights/query11_best_channel_per_type.png)
+![Query 11 Best Channel](images/query11_best_channel_per_type.png)
 
 ### Query 12 — High Value Campaigns
-![Query 12 High Value](insights/query12_high_value_campaigns.png)
+![Query 12 High Value](images/query12_high_value_campaigns.png)
 
 ---
 

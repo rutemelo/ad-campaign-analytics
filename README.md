@@ -135,4 +135,4 @@ Based on the analysis, a data-driven advertiser should consider the following:
 - All queries written and tested in **MySQL Workbench**
 
 ## Status
-🚧 Power BI dashboard in progress
+Power BI dashboard in progress

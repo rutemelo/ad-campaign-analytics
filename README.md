@@ -112,7 +112,7 @@ Bottom 5
 ![Query 11 Best Channel](images/query11_best_channel_per_type.png)
 
 ### Query 12 — High Value Campaigns
-![Query 12 High Value](images/query12_high_value_campaigns.png)
+![Query 12 High Value](images/12_high_value_campaigns.png)
 
 ---
 

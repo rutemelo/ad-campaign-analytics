@@ -6,7 +6,8 @@ USE campaign_analysis;
 -- Description: SQL queries to analyse the campaign ROI, channel performance, audience segments and cost efficiency.
 
 -- 0. DATA PREPARATION
--- Note: Acquisition_Cost is stored as formated as currency ($XX,XXX.XX}. For the calculations through this scrip I will cast it as numeric.
+-- Note: Acquisition_Cost is stored as formated as currency ($XX,XXX.XX}.
+-- For the calculations through this scrip I will cast it as numeric.
 
 -- 1. OVERVIEW: Key Performance Metrics across all campaigns
 SELECT 
@@ -74,8 +75,6 @@ SELECT
   Location,
   COUNT(Campaign_ID) AS num_campaigns,
   ROUND(AVG(ROI), 2) AS avg_roi,
-  ROUND(AVG(Conversion_Rate) * 100, 2) AS avg_conversion_rate_pct,
-  SUM(Clicks) AS total_clicks,
   ROUND(AVG(Conversion_Rate) * 100, 2) AS avg_conversion_rate_pct,
   SUM(Clicks) AS total_clicks
 FROM marketing_campaign_dataset
@@ -165,9 +164,9 @@ SELECT
     Customer_Segment,
     Location,
     ROI,
-    ROUND (Conversion_Rate * 100, 2) AS conversion_rate_pct,
+    ROUND(Conversion_Rate * 100, 2) AS conversion_rate_pct,
     Engagement_Score
 FROM marketing_campaign_dataset
-WHERE ROI > (SELECT AVG (ROI) FROM marketing_campaign_dataset) AND Conversion_Rate > (SELECT AVG(Conversion_Rate) FROM marketing_campaign_dataset)
-ORDER BY ROI DESC;
+WHERE ROI > (SELECT AVG(ROI) FROM marketing_campaign_dataset) AND Conversion_Rate > (SELECT AVG(Conversion_Rate) FROM marketing_campaign_dataset)
+ORDER BY ROI DESC
 LIMIT 25;

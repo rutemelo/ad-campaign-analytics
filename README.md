@@ -99,6 +99,7 @@ ROI remained relatively stable throughout 2021 (ranging from 4.98 to 5.18), with
 ### Query 9 — Company Leaderboard
 Top 5
 ![Query 9 Top Companies](images/query9_company_leaderboard_top.png)
+
 Bottom 5
 ![Query 9 Bottom Companies](images/query9_company_leaderboard_bottom.png)
 
